@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak.</h1>
-<h3 align="center">Working as a native iOS & Android mobile application engineer. <br>Also playing around with Flutter these days. Using GitHub for my hobbies: like AI, game development and algorithms.</h3>
+<h3 align="center">Working as a native iOS & Android mobile application engineer. <br>Also playing around with Flutter these days. <br>Using GitHub for my hobbies: like AI, game development and algorithms.</h3>
 
 - 🌱 I’m currently learning **Unity**
 
