@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak.</h1>
 <h3 align="center">iOS & Android native mobile application engineer. Also playing around with Flutter these days.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burak-akkas" alt="burak-akkas" /></a> </p>
-
 - 🌱 I’m currently learning **Unity**
 
 - 📫 How to reach me **burak.akkas@outlook.com**
