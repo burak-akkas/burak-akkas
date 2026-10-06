@@ -22,7 +22,6 @@
 - 📱 **Mobile App Engineer**
 - 🧪 Using GitHub for my hobbies: **AI**, **game development** and **algorithms**
 - 🎮 Exploring game development with **Unity**
-- 📫 Reach me at **burak.akkas@outlook.com**
 
 ## 🛠️ Tech stack
 
