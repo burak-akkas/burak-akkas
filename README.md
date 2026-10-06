@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Burak%20Akka%C5%9F&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Engineer%20%C2%B7%20iOS%20%C2%B7%20Android%20%C2%B7%20Flutter&descAlignY=58&descSize=18" alt="Burak Akkaş" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Burak%20Akka%C5%9F&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20Engineer&descAlignY=58&descSize=18" alt="Burak Akkaş" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/burak-akkas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=520&lines=Native+iOS+%26+Android+engineer;Playing+around+with+Flutter;Tinkering+with+AI+%26+algorithms;Learning+Unity+for+game+dev" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=520&lines=Mobile+App+Engineer;Tinkering+with+AI+%26+algorithms;Exploring+game+dev+with+Unity" alt="Typing intro" />
   </a>
 </p>
 
@@ -19,10 +19,9 @@
 
 ## 👋 About me
 
-- 📱 Working as a **native iOS & Android mobile application engineer**
-- 🦋 Also playing around with **Flutter** these days
+- 📱 **Mobile App Engineer**
 - 🧪 Using GitHub for my hobbies: **AI**, **game development** and **algorithms**
-- 🌱 Currently learning **Unity**
+- 🎮 Exploring game development with **Unity**
 - 📫 Reach me at **burak.akkas@outlook.com**
 
 ## 🛠️ Tech stack
@@ -30,7 +29,7 @@
 **📱 Mobile**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,java,androidstudio,flutter,dart,react,firebase,sqlite&perline=12" alt="Mobile" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,java,androidstudio,react,firebase,sqlite&perline=12" alt="Mobile" />
 </p>
 
 <sub>+ Objective-C, React Native, Realm</sub>
