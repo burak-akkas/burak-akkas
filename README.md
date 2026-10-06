@@ -13,7 +13,6 @@
   <a href="https://linkedin.com/in/burak-akka%C5%9F"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/4930934"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="mailto:burak.akkas@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=burak-akkas&style=for-the-badge&color=2c5364&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -73,10 +72,6 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=burak-akkas&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burak-akkas&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=burak-akkas&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <!-- Footer -->
